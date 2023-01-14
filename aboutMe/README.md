@@ -3,14 +3,14 @@
 ## Facts about me 
 
 - I love travelling! One of my favorite places I've been to is Italy
-![Gondolas](C:\Users\maely\Documents\EE201\aboutMe\20170728_183925.jpg")
+![Gondolas](20170728_183925.jpg")
 - I have a dog named Shawny 
-![Shawny](/Shawny.jpg")
+![Shawny](Shawny.jpg")
 - I have dual citizenship with Germany
 - I originally wanted to major in bioengineering before changing my mind halfway through my freshman year 
 - I've worked 5 different jobs, my favorite being a math tutor at my old community college and my least favorite being a dishwasher at a local pizzeria in my home town
 
 ## This or That 
-- ==Spring== or Fall
+- <mark>Spring<mark> or Fall
 - Beach or ==Mountains==
 - 
