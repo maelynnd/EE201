@@ -1,7 +1,7 @@
-Maelynn Danke
-#Facts about me
+#Maelynn Danke
+##Facts about me
 - I love travelling! One of my favorite places I've been to is Italy
-![Gondolas on a busy canal]("C:\Users\maely\Downloads\20170728_183925.jpg")
+![Gondolas on a busy canal](20170728_183925.jpg")
 - I have a dog named Shawny 
 ![Shawny]("C:\Users\maely\Downloads\Shawny.jpg")
 - I have dual citizenship with Germany
