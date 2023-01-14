@@ -1,4 +1,3 @@
 # EE201
-# EE201
-## what
-something
+## Yay its Friday!!
+### Woohoo
