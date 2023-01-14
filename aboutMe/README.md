@@ -3,3 +3,4 @@ Maelynn Danke
 ![Gondolas on a busy canal]("C:\Users\maely\Downloads\20170728_183925.jpg")
 - I have a dog named Shawny 
 ![Shawny]("C:\Users\maely\Downloads\Shawny.jpg")
+- I have dual citizenship with Germany
