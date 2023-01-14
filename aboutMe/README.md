@@ -17,10 +17,10 @@
 - [ ] Hot air balloon 🔥🪂🎈
 - [ ] Visit 20 national parks 🌳🌱🍄🐌🏞🌲🐛☘️🍃🐦🦎🌿🦋
 ## Previous (and/or current) interests I've pursued
-- [] Circus Arts ![trapeze](Screenshot_20230113_200308_Photos.jpg")
-- [] Figure Skating
-- [] Horseback Riding
-- [] Volleyball
-- [] Singing 1[choir](IMG_5409.jpg")
-- [] Crying
-- [] Rock Climbing
+- [ ] Circus Arts ![trapeze](Screenshot_20230113_200308_Photos.jpg)
+- [ ] Figure Skating
+- [ ] Horseback Riding
+- [ ] Volleyball
+- [ ] Singing 1[choir](IMG_5409.jpg)
+- [ ] Crying
+- [ ] Rock Climbing
