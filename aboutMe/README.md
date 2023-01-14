@@ -11,3 +11,10 @@
 - I've worked 5 different jobs, my favorite being a math tutor at my old community college and my least favorite being a dishwasher at a local pizzeria in my home town
 ## A Bit of My Bucket List...
 [x] Skydiving
+![Skydiving](IMG_0020.jpg)
+[x] Stand up on a surf board (trust me I got there...)
+![surfing](IMG_7968.jpg)
+[x] Snorkel
+[] See the northern lights
+[] Hot air balloon
+[] Visit 20 national parks
