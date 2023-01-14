@@ -21,6 +21,6 @@
 - [ ] Figure Skating
 - [ ] Horseback Riding
 - [ ] Volleyball
-- [ ] Singing 1[choir](IMG_5409.jpg)
+- [ ] Singing ![choir](IMG_5409.jpg)
 - [ ] Crying
 - [ ] Rock Climbing
